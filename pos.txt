@@ -1,0 +1,12 @@
+positive\01.jpg 7 0 0 1 2 0 0 1 2 0 0 1 2 0 0 1 2 0 0 1 2 0 0 1 2 1 2 58 49
+positive\02.jpg 2 1 2 58 49 1 2 58 49
+positive\03.jpg 1 1 2 58 49
+positive\04.jpg 1 1 2 58 49
+positive\05.jpg 1 1 2 58 49
+positive\06.jpg 2 1 2 58 49 1 2 58 49
+positive\07.jpg 1 1 0 76 51
+positive\08.jpg 1 1 0 76 51
+positive\09.jpg 1 1 0 76 51
+positive\10.jpg 1 1 0 76 51
+positive\11.jpg 1 1 0 76 51
+positive\12.jpg 1 1 0 76 51
